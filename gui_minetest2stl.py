@@ -56,7 +56,7 @@ bou2.grid(sticky=W,row=5, column=0)
 
 
 bou3 = Button(frame1, text='Quitter', command = fen1.destroy)
-bou3.grid(sticky=W,row=5, column=1)
+bou3.grid(sticky=E,row=5, column=1)
 
 fen1.mainloop()
 
