@@ -2,6 +2,8 @@ GUI Minetest to STL
 ======================================
 Interface pour faciliter la conversion des mondes de Minetest vers un fichier STL, imprimable ensuite sur une imprimante 3D.
 
+[![screenshot](https://raw.github.com/julienrat/gui_minetest2stl/master/screenshot.png)](#features) 
+
 1-Installez les dépendances :
 python3, python3-tk, openscad
 
@@ -10,4 +12,4 @@ python3, python3-tk, openscad
 Julien Rat, sous licence GNU GPL
 
 
-[![screenshot](https://raw.github.com/julienrat/gui_minetest2stl/master/screenshot.png)](#features) 
+
