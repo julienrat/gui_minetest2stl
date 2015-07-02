@@ -5,9 +5,11 @@ User Interface to facilitate the conversion of the worlds Minetest to an STL fil
 [![screenshot](https://raw.github.com/julienrat/gui_minetest2stl/master/screenshot.png)](#features) 
 
 1 - Install dependencies 
+
 python3, python3-tk (tkinter), openscad, python2-pillow
 
 2 - Download or clone repository and launch ./gui_minetest2stl.py
+
 git clone https://github.com/julienrat/gui_minetest2stl.git
 
 By Julien RAT (inspired by Jogge and celeron55) under GNU GPL
