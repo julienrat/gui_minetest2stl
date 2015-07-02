@@ -9,7 +9,7 @@ python3, python3-tk (tkinter), openscad, python2-pillow
 
 2-téléchargez le repertoire, puis lancer ./gui_minetest2stl.py
 
-Julien Rat, sous licence GNU GPL
+"Inspiré du script de Jogge, modifié par celeron55" - Julien Rat, sous licence GNU GPL
 
 
 
